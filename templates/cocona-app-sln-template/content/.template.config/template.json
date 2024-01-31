@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Tim Stephansen",
+  "classifications": [ "Common", "Console", "Cocona" ],
+  "identity": "LandmarkDevs.CoconaConsoleAppSln",
+  "name": "Cocona Console App Solution",
+  "shortName": "coconaappsln",
+  "sourceName":"CoconaConsoleApp",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

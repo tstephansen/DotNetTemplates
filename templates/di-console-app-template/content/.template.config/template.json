@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tim Stephansen",
+    "classifications": [ "Common", "Console" ],
+    "identity": "LandmarkDevs.DIConsoleApp",
+    "name": "DI Console App",
+    "shortName": "diconsoleapp",
+    "sourceName":"DIConsoleApp",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    }
+  }
