@@ -1,3 +1,3 @@
-# Console App with Dependency Injection Template
+# Cocona App Template
 
-This template will generate a console app that uses the HostApplicationBuilder to register services and logging.
+This template will generate a console app that uses the Cocona.
